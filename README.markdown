@@ -8,6 +8,13 @@ Scripts to generate the files for presenting Google Analytics for Panic's [Statu
 * Top Pages (Bottom Left)
 * 24 hourly window of visits (Bottom right)
 
+**And now**
+
+![](sample_board_1.jpg)
+
+* Browsers
+* Operating Systems
+
 # Installation
 
 To install, see the detailed instructions at [Google Analytics for Status Board](http://www.hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/).
