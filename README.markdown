@@ -17,7 +17,7 @@ Scripts to generate the files for presenting Google Analytics for Panic's [Statu
 
 # Installation
 
-To install, see the detailed instructions at [Google Analytics for Status Board](http://www.hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/).
+To install, see the detailed instructions at [Google Analytics for Status Board](http://www.hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/) and [Add GA OS and Browser to Status Board](http://www.hiltmon.com/blog/2013/04/17/add-ga-os-and-browser-to-status-board/).
 
 You will need a copy of [Status Board](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fstatus-board%252Fid449955536%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30), a [DropBox](http://www.dropbox.com) account and some Ruby-fu to make this all work.
 
