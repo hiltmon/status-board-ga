@@ -84,6 +84,7 @@ os_to_show.each do |os|
   data_untabbed.keys.each do |date_key|
     the_title = date_key
     the_value = data_untabbed[date_key][os]
+    the_value = 0 if the_value.nil?
     sequence_data << { :title => the_title, :value => the_value }
   end
   sequence[:datapoints] = sequence_data
