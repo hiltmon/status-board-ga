@@ -95,6 +95,9 @@ browsers_to_show.each do |browser|
     the_value = 0 if the_value.nil?
     sequence_data << { :title => the_title, :value => the_value }
   end
+  # Ruby 1.8.7 sort the array
+  sequence_data.sort! { |a, b| a[:title] <=> b[:title] }
+
   sequence[:datapoints] = sequence_data
   sequence[:color] = colors[index]
   index += 1
